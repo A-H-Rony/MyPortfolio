@@ -1,0 +1,78 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner_container{
+    background: #CBCACC;
+}
+.banner_column{
+    background: #8E8C8E;
+}
+.about_container{
+    background-color: #01B1B3;
+}
+.navbar_container{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.text_brown{
+    color: #DE9290;
+}
+.bg_brown{
+    background-color: #DE9290;
+}
+form .bg_brown{
+    color:white;
+    background-color: #DE9290!important;
+    padding: 10px;
+}
+form .bg_brown:hover{
+    color: #000;
+}
+.education_container{
+    background-color: #E4E3E5;
+}
+.education_container .bg_brown{
+    height:150px;
+    width: 150px;
+}
+.project_container{
+background-color: #2DB1E1;
+}
+.contact_container{
+    background-color: #474C5E;
+}
+.inner_bg{
+    background: #565A72;
+}
+.footer{
+    background: #279AC4;
+}
+.circle{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background: #fff;
+    display: inline-block;
+    color: #029394;
+    font-size: 40px;
+    line-height: 60px;
+}
+.circle:hover{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background: #565A72;
+    display: inline-block;
+    color: #029394;
+    font-size: 40px;
+    line-height: 60px;
+}
